@@ -1,0 +1,47 @@
+*{margin: 0;padding: 0;}
+		ul,img{list-style: none;}
+		a{text-decoration: none;}
+		body{margin: 0 auto;width: 1003px;}
+		.title{height: 120px;-background: yellowgreen;position: fixed;z-index: 55;top: 0;background: #fff;}
+		.title2{position: absolute;}
+		.title2 a{color: #555252;font-weight: bold;margin-right: 30px;}
+		.title2 div{display: none;}
+		.title2 div p{color: #000;font-weight: bold;  line-height: 30px;margin-left: 15px;}
+		.d{height: 120px;}
+		.ff{color: red;border-bottom: 2px solid #246A9E;line-height: 25px;padding-bottom: 7px;}
+		 .zss{width: 1003px;background: #C0C0C0;height: 200px;margin-top: 11px;border: 2px solid black;}
+		/*.title{width: 100%;}
+		.title1{width: 1003px;height: 80px;margin: 0 auto;}
+		.title2{width: 100%;height: 40px;background: #246a9e;text-align: center;line-height: 40px;}
+		.box{width: 1003px;height: 40px;margin: 0 auto;}
+		.title2 a{color: #fff;-border: 1px solid #fff;display: block;width: 100px;float: left;height: 40px;}
+		.title2 a:hover{background: #1591ec;color: #fff;font-weight: bold;}*/
+		
+		.lt{width: 1003px;height: 270px;position:relative;}
+		.lt div{display: none;}
+		.lt .show{display:block;}
+		
+		.zx{width: 1003px;height: 363px;-background: red;}
+		.zx .news{text-align: center;display: block;color: #646464;margin-bottom: 30px;}
+		.zx h3{color: #246a9e;font-size: 30px;text-align: center;border-bottom: 2px solid #efefef;}
+		.zx ul{width: 100%;overflow:hidden;position: relative;height: 270px;}
+		.zx ul li{width:3009px; position:absolute;left:0px;}
+		.zx ul li div{width: 1003px;float: left;}
+		.zx ul li img{width: 483px;height: 270px;float: left;}
+		.zx ul li span{display: block;width: 500px;height: 270px; float: right;}
+		.zx ul li span p{color: #888585;font-size: 12px;line-height: 20px;margin-top: 20px;}
+		h4{text-align: center;}
+		
+		
+		.zs{height: 200px;}
+		
+		.al{height: 200px;background: yellow;}
+		
+		.lj{border: 1px solid #c0c0c0;margin: 10px 0 5px 0;height: 50px;}
+		.lj p{display: block;float: left;font-size: 12px;width:60px;border: 1px solid #22b0fa;height: 15px;line-height: 15px;text-align: center;margin: 17px 0 0 30px;color: #888585;}
+		.lj a{float: left;margin-left: 25px;line-height: 50px;font-size: 13px;color: #22B0FA;}
+		
+		.foot{height: 156px;background: url(img/9k=.jpg) no-repeat;}
+		.foot div{width: 602px;float: right;}
+		.foot div p{color: #888585;font-size: 12px;line-height: 22px;}
+		.foot a{color: black;}
